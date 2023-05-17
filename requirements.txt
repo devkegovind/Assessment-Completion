@@ -6,4 +6,8 @@ scikit-learn
 flask
 ipykernel
 wordcloud
-xgboost
+plotly
+tensorflow
+wrapt
+ipywidgets
+wordnet
