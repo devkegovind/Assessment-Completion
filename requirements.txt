@@ -12,3 +12,4 @@ wrapt
 ipywidgets
 wordnet
 scikit-plot
+graphviz

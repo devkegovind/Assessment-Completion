@@ -116,7 +116,7 @@ If you are interested in learning how to collect high-quality datasets for vario
 
 **Q.4 Problem Statement: Imagine you working as a sale manager now you need to predict the Revenue and whether that particular revenue is on the weekend or not and find the Informational_Duration using the Ensemble learning algorithm Dataset This is the Dataset You can use this dataset for this question.**
 
-## Online Shoppers Intention UCI Machine Learning
+### **Online Shoppers Intention UCI Machine Learning**
 Online Shopper Intention Dataset from UCI's Machine Learning Library
 
 **About Dataset**
@@ -169,3 +169,39 @@ Dua, D. and Graff, C. (2019). UCI Machine Learning Repository [http://archive.ic
 - This is a very beginner-friendly dataset. It does contain a lot of NA values. It is a good dataset if you want to use a Linear Regression Model to see the pattern between different predectors such as hour and price.
 
 - A really amazing part of this dataset is that I have included the corresponding weather data for that hour with a short summary of the weather. Other important factors are temperature, wind, and sunset.
+
+
+**Q-6. Imagine you have a dataset where you have predicted loan Eligibility using any 4 different classification algorithms. Now you have to build a model which can predict loan Eligibility and you need to find the accuracy of the model and built-in docker and use some library to display that in frontend Dataset This is the Dataset You can use this dataset for this question**
+
+**Loan Approval Prediction:**
+EDA + Decision Tree, Random Forest & Logistic Regression Modeling
+Hello ! I am Ajay and in this kernel we will explore loan approval dataset from Analytics Vidya competition.
+Please Upvote this kernel if you like content.
+
+**Problem Statement:**
+About Company
+Dream Housing Finance company deals in all home loans. They have presence across all urban, semi urban and rural areas. Customer first apply for home loan after that company validates the customer eligibility for loan.
+
+**Problem**
+Company wants to automate the loan eligibility process (real time) based on customer detail provided while filling online application form. These details are Gender, Marital Status, Education, Number of Dependents, Income, Loan Amount, Credit History and others. To automate this process, they have given a problem to identify the customers segments, those are eligible for loan amount so that they can specifically target these customers. Here they have provided a partial data set.
+
+
+**Q-7. Imagine you have a dataset where you need to predict the Genres of Music using an Unsupervised algorithm and you need to find the accuracy of the model, built-in docker, and use some library to display that in frontend Dataset This is the Dataset You can use this dataset for this question.**
+
+**Music features**
+A dataset to test your music tagging model
+
+**About Dataset**
+
+*Context*
+A music genre is a conventional category that identifies pieces of music as belonging to a shared tradition or set of conventions. It is to be distinguished from musical form and musical style. The features extracted from these waves can help the machine distinguish between them.
+
+*Content*
+The features in this dataset are extracted from the dataset provided here which consists of 1000 audio tracks each 30 seconds long. It contains 10 genres, each represented by 100 tracks. The tracks are all 22050Hz Mono 16-bit audio files in .wav format. The code used to extract features is at this GitHub repo. Features are extracted using libROSA library.
+
+*Acknowledgements*
+The credits to this dataset go to MARSYAS.
+
+*Inspiration*
+Due to the artistic nature of music, the classifications are often arbitrary and controversial, and some genres may overlap. Train a model and know to which genre your favourite piece of music belong to.
+
