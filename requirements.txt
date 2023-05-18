@@ -11,3 +11,4 @@ tensorflow
 wrapt
 ipywidgets
 wordnet
+scikit-plot

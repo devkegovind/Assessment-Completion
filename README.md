@@ -1,10 +1,4 @@
-**Q.1**
-
-#### **Problem Statment**
-
-Imagine you have a dataset where you have different Instagram features like u sername , Caption , Hashtag , Followers , Time_Since_posted , and likes , now your task is to predict the number of likes and Time Since posted and the rest of the features are your input features. Now you have to build a model which can predict the
-number of likes and Time Since posted.
-Dataset This is the Dataset You can use this dataset for this question.
+**Q-1. Imagine you have a dataset where you have different Instagram features like u sername , Caption , Hashtag , Followers , Time_Since_posted , and likes , now your task is to predict the number of likes and Time Since posted and the rest of the features are your input features. Now you have to build a model which can predict the number of likes and Time Since posted. Dataset This is the Dataset You can use this dataset for this question.**
 
 #### **About Dataset**
 
@@ -17,7 +11,15 @@ When a User has more followers, then the post reaches out to more peoples and ch
 
 
 
-**Q.3**
+
+
+**Q.2 Imagine you have a dataset where you have different features like Age ,Gender , Height , Weight , BMI , and Blood Pressure and you have to classify the people into different classes like Normal , Overweight , Obesity , Underweight , and Extreme Obesity by using any 4 different classification algorithms. Now you have to build a model which can classify people into different classes.Dataset This is the Dataset You can use this dataset for this question.**
+
+
+
+
+
+**Q.3 Imagine you have a dataset where you have different categories of data, Now you need to find the most similar data to the given data by using any 4 different similarity algorithms. Now you have to build a model which can find the most similar data to the given data. Dataset This is the Dataset You can use this dataset for this question.**
 
 ## News Category Dataset
 
@@ -27,7 +29,7 @@ Identify the type of news based on headlines and short descriptions
 **About Dataset**
 
 *Context*
-** Please cite the dataset using the BibTex provided in one of the following sections if you are using it in your research, thank you! **
+**Please cite the dataset using the BibTex provided in one of the following sections if you are using it in your research, thank you!**
 
 This dataset contains around 210k news headlines from 2012 to 2022 from HuffPost. This is one of the biggest news datasets and can serve as a benchmark for a variety of computational linguistic tasks. HuffPost stopped maintaining an extensive archive of news articles sometime after this dataset was first collected in 2018, so it is not possible to collect such a dataset in the present day. Due to changes in the website, there are about 200k headlines between 2012 and May 2018 and 10k headlines between May 2018 and 2022.
 
@@ -109,3 +111,51 @@ A classifier trained on this dataset could be used on a free text to identify th
 
 Want to contribute your own datasets?
 If you are interested in learning how to collect high-quality datasets for various ML tasks and the overall importance of data in the ML ecosystem, consider reading my book Sculpting Data for ML.
+
+
+
+**Q.4 Problem Statement: Imagine you working as a sale manager now you need to predict the Revenue and whether that particular revenue is on the weekend or not and find the Informational_Duration using the Ensemble learning algorithm Dataset This is the Dataset You can use this dataset for this question.**
+
+## Online Shoppers Intention UCI Machine Learning
+Online Shopper Intention Dataset from UCI's Machine Learning Library
+
+**About Dataset**
+*Data Set Information:*
+
+The dataset consists of feature vectors belonging to 12,330 sessions.
+The dataset was formed so that each session
+would belong to a different user in a 1-year period to avoid
+any tendency to a specific campaign, special day, user
+profile, or period.
+
+*Dataset Origin:*
+
+https://archive.ics.uci.edu/ml/datasets/Online+Shoppers+Purchasing+Intention+Dataset
+
+*Source:*
+
+C. Okan Sakar
+Department of Computer Engineering, Faculty of
+Engineering and Natural Sciences, Bahcesehir University,
+34349 Besiktas, Istanbul, Turkey
+
+Yomi Kastro
+Inveon Information Technologies Consultancy and Trade,
+34335 Istanbul, Turkey
+
+Relevant Papers:
+
+Sakar, C.O., Polat, S.O., Katircioglu, M. et al. Neural Comput & Applic (2018). [Web Link]
+
+Citation Request:
+
+If you use this dataset, please cite:
+Sakar, C.O., Polat, S.O., Katircioglu, M. et al. Neural Comput & Applic (2018). [Web Link]
+
+Cover Photo:
+
+Photo by Bruno Kelzer on Unsplash
+
+Dataset downloaded from UCI Machine Learning Repository.
+
+Dua, D. and Graff, C. (2019). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer Science.
