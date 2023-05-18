@@ -159,3 +159,13 @@ Photo by Bruno Kelzer on Unsplash
 Dataset downloaded from UCI Machine Learning Repository.
 
 Dua, D. and Graff, C. (2019). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer Science.
+
+
+
+**Q-5. Uber is a taxi service provider as we know, we need to predict the high booking area using an Unsupervised algorithm and price for the location using a supervised algorithm and use some map function to display the data Dataset This is the Dataset You can use this dataset for this question.**
+
+**About Dataset**
+*Uber vs Lyft*
+- This is a very beginner-friendly dataset. It does contain a lot of NA values. It is a good dataset if you want to use a Linear Regression Model to see the pattern between different predectors such as hour and price.
+
+- A really amazing part of this dataset is that I have included the corresponding weather data for that hour with a short summary of the weather. Other important factors are temperature, wind, and sunset.
